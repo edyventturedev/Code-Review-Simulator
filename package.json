@@ -1,9 +1,0 @@
-{
-  "name": "code-review-simulator",
-  "version": "1.0.0",
-  "private": true,
-  "description": "AI-powered code review tool built with HTML/CSS/JS and a Vercel serverless function proxying Claude's API.",
-  "engines": {
-    "node": ">=18"
-  }
-}
